@@ -10,3 +10,19 @@
 -    Forward propagation in ANN<br>
 -    How does ANN learn?<br>
 -    Building a neural network from scratch <br>
+
+
+
+
+  <b><H1>Getting to know TensorFlow</H1></b>
+-    Understanding computational graphs and sessions
+-    Variables, constants, and placeholders
+-    Introducing TensorBoard
+-    Handwritten digit classification using TensorFlow
+-    Introducing Eager Execution
+-    Math Operations in TensorFlow
+-    TensorFlow 2.0 and Keras
+-    MNIST Digit Classification Using TensorFlow 2.0
+
+
+<>
